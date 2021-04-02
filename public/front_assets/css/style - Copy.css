@@ -1,0 +1,62 @@
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.badge-default {
+  background-color: #777;
+}
+.badge-primary {
+  background-color: #337ab7;
+}
+.badge-success {
+  background-color: #5cb85c;
+}
+.badge-info {
+  background-color: #5bc0de;
+}
+.badge-warning {
+  background-color: #f0ad4e;
+}
+.badge-danger {
+  background-color: #d9534f;
+}
+
+.navbar-icon-top .navbar-nav>li>a>.fa, .navbar-icon-top .navbar-nav>li>a>.glyphicon {
+    position: relative;
+    width: 36px;
+    font-size: 24px;
+}
+.navbar-icon-top .navbar-nav>li>a>.fa>.badge, .navbar-icon-top .navbar-nav>li>a>.glyphicon>.badge {
+    position: absolute;
+    right: 0;
+    font-family: sans-serif;
+}
+.navbar-icon-top .navbar-nav>li>a>.fa {
+    top: 3px;
+    line-height: 10px;
+}
+.navbar-icon-top .navbar-nav>li>a>.fa>.badge {
+    top: -10px;
+}
+.navbar-icon-top .navbar-nav>li>a>.glyphicon {
+    top: 6px;
+    line-height: 6px;
+}
+.navbar-icon-top .navbar-nav>li>a>.glyphicon>.badge {
+    top: -16px;
+}
+
+body{
+
+    background-image: url(../images/bg.png);   
+    opacity: 0.9;
+    background-size:100% 50em; 
+    background-repeat: no-repeat;
+    background-color: ;
+
+}
+img{
+
+}
+
+
+
+

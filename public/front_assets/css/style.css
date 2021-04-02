@@ -1,0 +1,106 @@
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.badge-default {
+  background-color: #777;
+}
+.badge-primary {
+  background-color: #337ab7;
+}
+.badge-success {
+  background-color: #5cb85c;
+}
+.badge-info {
+  background-color: #5bc0de;
+}
+.badge-warning {
+  background-color: #f0ad4e;
+}
+.badge-danger {
+  background-color: #d9534f;
+}
+.btn-transparent {
+  background: none;
+  color: #428bca;
+  padding: 0;
+  float: none;
+}
+.navbar-icon-top .navbar-nav>li>a>.fa, .navbar-icon-top .navbar-nav>li>a>.glyphicon {
+    position: relative;
+    width: 36px;
+    font-size: 24px;
+}
+.navbar-icon-top .navbar-nav>li>a>.fa>.badge, .navbar-icon-top .navbar-nav>li>a>.glyphicon>.badge {
+    position: absolute;
+    right: 0;
+    font-family: sans-serif;
+}
+.navbar-icon-top .navbar-nav>li>a>.fa {
+    top: 3px;
+    line-height: 10px;
+}
+.navbar-icon-top .navbar-nav>li>a>.fa>.badge {
+    top: -10px;
+}
+.navbar-icon-top .navbar-nav>li>a>.glyphicon {
+    top: 6px;
+    line-height: 6px;
+}
+.navbar-icon-top .navbar-nav>li>a>.glyphicon>.badge {
+    top: -16px;
+}
+
+body{
+
+    background-image: url(../images/bg.png);
+    opacity: 0.9;
+    background-size:100% 50em;
+    background-repeat: no-repeat;
+    background-color: ;
+    background-attachment: fixed;
+
+}
+img{
+
+}
+
+
+
+
+
+@media (min-width: 400px) {
+    .navbar-icon-top .navbar-brand {
+        padding: 25px 15px;
+    }
+    .navbar-icon-top .navbar-text {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .navbar-icon-top .navbar-btn, .navbar-icon-top .navbar-form {
+        margin-top: 18px;
+        margin-bottom: 18px;
+    }
+    .navbar-icon-top .navbar-nav>li>a {
+        text-align: center;
+        display: table-cell;
+        height: 70px;
+        vertical-align: middle;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .navbar-icon-top .navbar-nav>li>a>.fa, .navbar-icon-top .navbar-nav>li>a>.glyphicon {
+        display: block;
+        width: 48px;
+        margin: 2px auto 4px auto;
+        top: 0;
+        line-height: 24px;
+    }
+    .navbar-icon-top .navbar-nav>li>a>.fa>.badge, .navbar-icon-top .navbar-nav>li>a>.glyphicon>.badge {
+        top: -7px;
+    }
+}
+@media (max-width: 550px) {
+    body{
+        background-image: none !important;
+    }
+    }
+@media (max-width: 1200px) {.dropdown-menu{position: relative;} .navbar-header { float: none; } .navbar-left,.navbar-right { float: none !important; } .navbar-toggle { display: block; } .navbar-collapse { border-top: 1px solid transparent; box-shadow: inset 0 1px 0 rgba(255,255,255,0.1); } .navbar-fixed-top { top: 0; border-width: 0 0 1px; } .navbar-collapse.collapse { display: none!important; } .navbar-nav { float: none!important; margin-top: 7.5px; } .navbar-nav>li { float: none; } .navbar-nav>li>a { padding-top: 10px; padding-bottom: 10px; } .collapse.in{ display:block !important; } }

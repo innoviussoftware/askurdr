@@ -1,0 +1,26 @@
+.bold{
+	font-weight: 700!important;
+	font-size: 17px;
+	
+}
+
+.font-dark{
+	color: #5a5c69 !important;
+}
+.crumb{
+	text-decoration: none;
+	cursor: pointer;
+	text-decoration: none;
+}
+.sbold{
+	font-size:18px;
+	font-weight: 700!important;
+	color: #5a5c69 !important;
+}
+.btn-warning{
+	background-color: #003366 !important;
+    border:none !important;
+}
+.btn-warning:hover {
+  border:none !important;
+}
