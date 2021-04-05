@@ -42,6 +42,7 @@ Route::namespace('API')->group(function () {
     Route::get('user/getspecialitylist', 'AuthController@specialityList');
     Route::post('user/specialitywisedrlist', 'AuthController@specialitydoctoreList');
     Route::post('user/specialitywisedrlistwithfilter', 'AuthController@specialitydoctorelistwithfilter');
+    Route::get('twilio/chatcreatetokens', 'TwilioController@ChatCreateTokens');
 });
 
 Route::middleware('auth:api')->prefix('user')->namespace('API')->group(function () {
@@ -146,8 +147,8 @@ Route::middleware('auth:api')->prefix('user')->namespace('API')->group(function 
 
 
 
-
-
+    
+    
 
 });
 

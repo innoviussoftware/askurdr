@@ -175,11 +175,10 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         Zizaco\Entrust\EntrustServiceProvider::class,
-        Aloha\Twilio\Support\Laravel\ServiceProvider::class,
         App\Providers\MailConfigServiceProvider::class,
         Barryvdh\DomPDF\ServiceProvider::class,
         Mews\Captcha\CaptchaServiceProvider::class,
-        
+        //Aloha\Twilio\Support\Laravel\ServiceProvider::class,
 
 
     ],
@@ -235,15 +234,15 @@ return [
         'role' => \Zizaco\Entrust\Middleware\EntrustRole::class,
         'permission' => \Zizaco\Entrust\Middleware\EntrustPermission::class,
         'ability' => \Zizaco\Entrust\Middleware\EntrustAbility::class,
-
-        'Twilio' => Aloha\Twilio\Support\Laravel\Facade::class,
         'Form' => Collective\Html\FormFacade::class,
         'Html' => Collective\Html\HtmlFacade::class,
         'CommonHelper' => App\Helpers\MyHelper\CommonHelper::class,
         'PDF' => Barryvdh\DomPDF\Facade::class,
         'Carbon' => 'Carbon\Carbon',
         'Captcha' => Mews\Captcha\Facades\Captcha::class,
-
+        //
+        //'Twilio' => Aloha\Twilio\Support\Laravel\Facade::class,
+        //"aloha/twilio": "^4.0",
     ],
 
 ];

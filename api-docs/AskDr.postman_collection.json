@@ -1,0 +1,3697 @@
+{
+	"id": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+	"name": "AskDr",
+	"description": "",
+	"order": [
+		"2b1570d0-c38b-c3f2-f7b3-4bb47366066f",
+		"74990c06-ac6a-188f-3a72-e9671643bee4",
+		"75c9c0eb-d21d-b958-4faa-11654d53bae2",
+		"f8fe1264-c3c5-2936-07ce-c66d203fd8a3",
+		"4384fa60-4f48-7f9f-510c-15625f8ff32d",
+		"3996bf17-ba42-1426-b289-5d2d2a787277",
+		"e82114c6-515a-93af-821f-aefb3dd6a3d8",
+		"2f5d304d-5964-9ae8-4d78-73c888c1ba7b",
+		"c4e2da3a-cf47-8b36-db4c-9687e198f51b",
+		"f90e8a70-14ca-8bac-66f7-bbc022f3f029",
+		"efef1006-d32d-cde0-b4d1-ec402c61eed5",
+		"e702251e-c208-281f-b389-b9f2a2397104",
+		"414ca979-e631-b0fc-0368-05cef33c48f8",
+		"78657cab-435b-8a3c-ab66-d53dcc2df752",
+		"35fffb25-801e-76f3-81f5-18ac1f8fc59a",
+		"7dbeb768-4ef9-640e-91e3-59a4ada06a11",
+		"cbc6cb15-f1a0-7738-5dd1-b111a3469972",
+		"e119b30a-cf84-6561-cb2d-0c3e4f4068d4",
+		"46ff3183-fe86-1307-ed98-72d3f4286ba8",
+		"a4e5df80-06b1-0d7d-6258-0960166b8b26",
+		"0cc36a8c-5491-02c3-807e-86ccbc48e6ab",
+		"fefe5083-97bc-3bb6-4354-e2782e65a77f",
+		"e7745f97-ae58-6cf8-f1f7-5bc1f0297f46",
+		"76af074d-0746-ce0b-b311-1a624cc106dc",
+		"71390f21-12a9-c0e5-eb4d-e7a900e0cd99",
+		"2fecba21-8c9e-31bf-b2d7-084c304c1dc7",
+		"cce0e108-befa-c4d2-b71d-e0ec5f0a8bae",
+		"76efc6d0-b2f7-1cad-6b84-9c88547ce3ec",
+		"550c5abe-4975-e08a-321e-88fe6a2c9c63",
+		"44803fe0-b5be-8a2e-6bbc-99af74d427bb",
+		"e9e067de-4d36-312b-b258-9937305f68a9",
+		"f3d1d59d-937f-8653-e361-15b51b3b07c7",
+		"dfdd7880-7389-80fe-44cb-23859c366faf",
+		"6c5a0717-b2f6-7a8f-8ab9-434e7a125451",
+		"f790e59c-c565-aeeb-d308-e3a5572eec81",
+		"305067e2-5fa7-13eb-0977-2ac4c00a840b",
+		"15836443-e9c5-e494-aaf9-759c565993a0",
+		"f5632ab1-2a38-2d96-24f6-77d090eed110",
+		"50fbf8e6-a125-7049-ba2a-d7eba40cce0e",
+		"0e7fc346-67dd-6e50-5905-afea8f060077",
+		"0cf51d1d-a473-ef42-a2c2-f2ea15d2c137",
+		"afddfdcc-339b-f451-9dcc-2643829347ec",
+		"578bd8b3-d825-d440-e518-11c1f8d17581",
+		"8fa1ae4f-a054-1577-b9e8-417c1dc6a988",
+		"0401d46f-2ec2-c081-f256-5419d272d7da",
+		"2ceb21d3-4b47-af66-d35a-30952bc9aae2",
+		"645f3600-a4cc-ed91-3d1f-21b53702f6c9",
+		"cad5e9ce-2959-37c1-4d1c-1fec9e4cac88",
+		"4b8645d5-939d-00d3-3681-45bf2c4c77e0",
+		"b9e22238-7155-e548-5881-bd256932b005",
+		"e029b43e-9fe1-9012-fb54-f3ac8ca3b5a9",
+		"9859887c-2c93-7db0-edf1-b09715682f05",
+		"95ab8036-1543-c229-f6d2-aa24c20a99f4",
+		"ad121d20-2750-e31d-e88c-4cdeb33e9f5f",
+		"81c6e05c-012a-0c9f-51d2-a76de01ff00d",
+		"943a552c-73b7-3157-99cd-deda672b33f3",
+		"71e3979a-07e8-df70-6bed-720c240706a1",
+		"6a319f69-3a51-11aa-a8eb-9a7e155f94a8",
+		"8be7bb86-3c7b-2df9-b2b2-8d096b721f08",
+		"0c15001b-dc60-020d-557d-ca3c2f53a7dd",
+		"0c2b751d-7c0f-e410-9899-27527224127e",
+		"80225016-bc02-ce89-52e3-ee6b2a57839f",
+		"1c1a4958-a14f-46df-c2ca-2d67c6f39ea5",
+		"c39fc2c0-bdd9-324b-d932-af01d2465e66",
+		"d4d75a48-9db8-136c-a058-6db83aa797c3",
+		"695b16b4-43ae-dde5-e390-905329e82c03",
+		"276c2a0f-5e0f-3471-8600-bc9d74e90751",
+		"832c9dfb-f785-dba8-535c-d01bc512026a",
+		"622a4fc6-6b3b-cc9e-3ffa-a0131ceab453"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1586594948742,
+	"owner": "4093677",
+	"public": false,
+	"requests": [
+		{
+			"id": "0401d46f-2ec2-c081-f256-5419d272d7da",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/addcall",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "userid",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "calltype",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "total_call_time",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "AddCall",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604336130,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "0c15001b-dc60-020d-557d-ca3c2f53a7dd",
+			"headers": "",
+			"headerData": [],
+			"url": "https://askurdr.com/api/sendotp",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "language",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "country_code",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "mobile",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586605928087,
+			"name": "SendOtp",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": [],
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "0c2b751d-7c0f-e410-9899-27527224127e",
+			"headers": "",
+			"headerData": [
+				{
+					"key": "",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/register",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "language",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "first_name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "date_of_birth",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "mobile",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "gender",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "national_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "device_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "country_code",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email_address",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "Register",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586606013941,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "0cc36a8c-5491-02c3-807e-86ccbc48e6ab",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/sendcallrequesttopatient",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "booking_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752742758,
+			"name": "SendcallRequestToPatient",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "0cf51d1d-a473-ef42-a2c2-f2ea15d2c137",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getallcount",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "GetAllCount",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604022279,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "0e7fc346-67dd-6e50-5905-afea8f060077",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/changestatus",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "id",
+					"value": "678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "status",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587983179600,
+			"name": "ChangeDoctorStatus",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "15836443-e9c5-e494-aaf9-759c565993a0",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/pdfinvestigation",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586603714350,
+			"name": "PdfInvestigation",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": [],
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "1c1a4958-a14f-46df-c2ca-2d67c6f39ea5",
+			"headers": "",
+			"headerData": [],
+			"url": "https://askurdr.com/api/adminsetting",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": null,
+			"dataMode": "params",
+			"name": "AdminSettings",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586606086205,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "276c2a0f-5e0f-3471-8600-bc9d74e90751",
+			"headers": "Accept: application/json\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjEzZjY0YTM2OWQwMGU2MTc3NzdhMmUzY2IwZDBhNjA2MTNkNGUyN2JmMjIxNDhmNmEyY2Q2MmY5ZmQzMjEyY2MzN2U3NjY5Nzc5YTY4ZTI3In0.eyJhdWQiOiIxIiwianRpIjoiMTNmNjRhMzY5ZDAwZTYxNzc3N2EyZTNjYjBkMGE2MDYxM2Q0ZTI3YmYyMjE0OGY2YTJjZDYyZjlmZDMyMTJjYzM3ZTc2Njk3NzlhNjhlMjciLCJpYXQiOjE1OTk1NjY4MTksIm5iZiI6MTU5OTU2NjgxOSwiZXhwIjoxNjMxMTAyODE5LCJzdWIiOiI3MjkiLCJzY29wZXMiOltdfQ.WkRnV6g3_vGFr8cD6P62ZAQ0_4TVA5HQL3p20Vb_Mh8uvUEMKlaNqwo4YdPvgBTR6w9IG-rZAW9tVOD5rJo_XytDdzfITUTWzaZPmOgP4Mv8QAXa7djgxTApQb_8fIecAhG5FcFQGCsVF0B1eGHr-ZPZ9ZKblG1AA-7gV_LM4nlOR3_SBPEkIl8EyYc19XpMvddHv5WuoN9ConHE9a7psY9BARFN-GfCB2E9nEpeZyy1_id-haDOg0-AscaSZzcKe20B3eQgieKbm4DIScC3RghGgFrfRj0TJyWTxBg0Qa9s0p5W5l4rdV6OTYJBtwPj0DLdNO4_Y-x3WqKvazvF4TyIgg4jinCY8JZPbq58IxMOzQeyq0mXgJhACIaMMZDEaNnF2VpDBei157DX274W29braNlwMIW9sL5QuyNMQaTliVlTgjf_IobkTTbnjv2SeDth6WLMty6f3KOivDZ7jWdhjrhiXe3EoOpP1VGOfTUJedZDiqZ_Ap7h2BBdwTOXSotLqrU7SKt97XOb0i-cKx9LJoeYd7qyXRHNNcc0EOK2LNPjJg_kASe1PkwSTUOKqmX7GM50nmMcJ7iEVS7b4yZ3n-FoqkQle80V6Gqdruw6vsJ2MZ0Z7vLxoPNgSWZWKBSZ-ZSVlL6VaWTtNTx4qAzii5UNShSGJmm67O3gypI\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjEzZjY0YTM2OWQwMGU2MTc3NzdhMmUzY2IwZDBhNjA2MTNkNGUyN2JmMjIxNDhmNmEyY2Q2MmY5ZmQzMjEyY2MzN2U3NjY5Nzc5YTY4ZTI3In0.eyJhdWQiOiIxIiwianRpIjoiMTNmNjRhMzY5ZDAwZTYxNzc3N2EyZTNjYjBkMGE2MDYxM2Q0ZTI3YmYyMjE0OGY2YTJjZDYyZjlmZDMyMTJjYzM3ZTc2Njk3NzlhNjhlMjciLCJpYXQiOjE1OTk1NjY4MTksIm5iZiI6MTU5OTU2NjgxOSwiZXhwIjoxNjMxMTAyODE5LCJzdWIiOiI3MjkiLCJzY29wZXMiOltdfQ.WkRnV6g3_vGFr8cD6P62ZAQ0_4TVA5HQL3p20Vb_Mh8uvUEMKlaNqwo4YdPvgBTR6w9IG-rZAW9tVOD5rJo_XytDdzfITUTWzaZPmOgP4Mv8QAXa7djgxTApQb_8fIecAhG5FcFQGCsVF0B1eGHr-ZPZ9ZKblG1AA-7gV_LM4nlOR3_SBPEkIl8EyYc19XpMvddHv5WuoN9ConHE9a7psY9BARFN-GfCB2E9nEpeZyy1_id-haDOg0-AscaSZzcKe20B3eQgieKbm4DIScC3RghGgFrfRj0TJyWTxBg0Qa9s0p5W5l4rdV6OTYJBtwPj0DLdNO4_Y-x3WqKvazvF4TyIgg4jinCY8JZPbq58IxMOzQeyq0mXgJhACIaMMZDEaNnF2VpDBei157DX274W29braNlwMIW9sL5QuyNMQaTliVlTgjf_IobkTTbnjv2SeDth6WLMty6f3KOivDZ7jWdhjrhiXe3EoOpP1VGOfTUJedZDiqZ_Ap7h2BBdwTOXSotLqrU7SKt97XOb0i-cKx9LJoeYd7qyXRHNNcc0EOK2LNPjJg_kASe1PkwSTUOKqmX7GM50nmMcJ7iEVS7b4yZ3n-FoqkQle80V6Gqdruw6vsJ2MZ0Z7vLxoPNgSWZWKBSZ-ZSVlL6VaWTtNTx4qAzii5UNShSGJmm67O3gypI",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getpaymenthistory",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1599630872312,
+			"name": "user/getpaymenthistory",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "2b1570d0-c38b-c3f2-f7b3-4bb47366066f",
+			"headers": "Accept: application/json\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjlkZjVmNjY3Y2U0YTg1OGVjY2FlN2YyYTUyMDllY2Y2YmRhMmM1NTliNzAzNGQ0MTNiOGFhOTFmMjllMTQyZjdmNGYxYjJiYzljYzM0YjYzIn0.eyJhdWQiOiIxIiwianRpIjoiOWRmNWY2NjdjZTRhODU4ZWNjYWU3ZjJhNTIwOWVjZjZiZGEyYzU1OWI3MDM0ZDQxM2I4YWE5MWYyOWUxNDJmN2Y0ZjFiMmJjOWNjMzRiNjMiLCJpYXQiOjE1OTgwMDkxNTEsIm5iZiI6MTU5ODAwOTE1MSwiZXhwIjoxNjI5NTQ1MTUxLCJzdWIiOiI2NzgiLCJzY29wZXMiOltdfQ.a8gAfjzGlP3vtAJCQycMOo4zQ9eEwIBPNt_v_-ogQXKfaGnRAOYpozQHqTdRjlzAxNsb9awXkN1gQAbe2KyZ8To_l8uYC446NoF_bG6aH9hcDz-okVhJy8WH7PuRIFOhQbsore5AIsUV0F9q8UnDqLwQpI6eLTKhuql_WjU7UNxin2RCAwTntkGhQ-c3s3YdJb3407W6WKsxpNvgOb8Cv32XMTk1ybq69wCxOdA3yBsBvZ1T3RVS9szLut0yo3YQo6xt3ylC3doy1ZVdYpSPZBIOs5OphWh02wsxLEM_E_VXRqiqfgLf-ar3DlHonHKZum8HpzdoaEteavFmg18h2L9NivPCmU64bNzKfEo-nqddILMK6dxTQYF5Lb8x-DBO_cLDNWYwRc8kPwv5yUNPVjdSSPAPDgjgo_phTCcA_9fnIjuxvfscxELtYjxYihM0gduLnqRfhSGETdSbPSZ8IZE5rUrVzAJtiNT7FCUboN_yvrDyNFYGQwHzAk8MJALCAKuN6b7WENllwG6ZO9gcbMiUJk7ZAP4hzPhPdvs-LQBS_KvuzAm66pv6n9Fo9BbucZNejAPb0fM-P6N7F1E7KJfEHtfMwI4alSrNoaw624b7shd8pX0JsYURSKufXi-n-8MNmBVg_wr5az6m0Y5CKVNlK4DdjkY-dM_WA-ckhoc\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjlkZjVmNjY3Y2U0YTg1OGVjY2FlN2YyYTUyMDllY2Y2YmRhMmM1NTliNzAzNGQ0MTNiOGFhOTFmMjllMTQyZjdmNGYxYjJiYzljYzM0YjYzIn0.eyJhdWQiOiIxIiwianRpIjoiOWRmNWY2NjdjZTRhODU4ZWNjYWU3ZjJhNTIwOWVjZjZiZGEyYzU1OWI3MDM0ZDQxM2I4YWE5MWYyOWUxNDJmN2Y0ZjFiMmJjOWNjMzRiNjMiLCJpYXQiOjE1OTgwMDkxNTEsIm5iZiI6MTU5ODAwOTE1MSwiZXhwIjoxNjI5NTQ1MTUxLCJzdWIiOiI2NzgiLCJzY29wZXMiOltdfQ.a8gAfjzGlP3vtAJCQycMOo4zQ9eEwIBPNt_v_-ogQXKfaGnRAOYpozQHqTdRjlzAxNsb9awXkN1gQAbe2KyZ8To_l8uYC446NoF_bG6aH9hcDz-okVhJy8WH7PuRIFOhQbsore5AIsUV0F9q8UnDqLwQpI6eLTKhuql_WjU7UNxin2RCAwTntkGhQ-c3s3YdJb3407W6WKsxpNvgOb8Cv32XMTk1ybq69wCxOdA3yBsBvZ1T3RVS9szLut0yo3YQo6xt3ylC3doy1ZVdYpSPZBIOs5OphWh02wsxLEM_E_VXRqiqfgLf-ar3DlHonHKZum8HpzdoaEteavFmg18h2L9NivPCmU64bNzKfEo-nqddILMK6dxTQYF5Lb8x-DBO_cLDNWYwRc8kPwv5yUNPVjdSSPAPDgjgo_phTCcA_9fnIjuxvfscxELtYjxYihM0gduLnqRfhSGETdSbPSZ8IZE5rUrVzAJtiNT7FCUboN_yvrDyNFYGQwHzAk8MJALCAKuN6b7WENllwG6ZO9gcbMiUJk7ZAP4hzPhPdvs-LQBS_KvuzAm66pv6n9Fo9BbucZNejAPb0fM-P6N7F1E7KJfEHtfMwI4alSrNoaw624b7shd8pX0JsYURSKufXi-n-8MNmBVg_wr5az6m0Y5CKVNlK4DdjkY-dM_WA-ckhoc",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/me",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "gender",
+					"value": "all",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "speciality_id",
+					"value": "1",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "language",
+					"value": "ar",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "consultant",
+					"value": "0",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "call_type",
+					"value": "regular",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "649",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1598509752872,
+			"name": "User Me",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "2ceb21d3-4b47-af66-d35a-30952bc9aae2",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getcall",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587013411781,
+			"name": "GetCallLogs",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "2f5d304d-5964-9ae8-4d78-73c888c1ba7b",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/editprofile",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "first_name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "mobile",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "profile_pic",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752371697,
+			"name": "EditProfile",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "2fecba21-8c9e-31bf-b2d7-084c304c1dc7",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/investigationlist",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1590645634430,
+			"name": "InvestigationList",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "305067e2-5fa7-13eb-0977-2ac4c00a840b",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/prescriptionlistbyid",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "PrescriptionListById",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586603645694,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "35fffb25-801e-76f3-81f5-18ac1f8fc59a",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/doctordetail",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "doctor_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752694325,
+			"name": "DoctorDetails",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK"
+					},
+					"time": 1084,
+					"headers": [
+						{
+							"name": "cache-control",
+							"key": "cache-control",
+							"value": "no-cache, private",
+							"description": "Tells all caching mechanisms from server to client whether they may cache this object. It is measured in seconds"
+						},
+						{
+							"name": "content-encoding",
+							"key": "content-encoding",
+							"value": "gzip",
+							"description": "The type of encoding used on the data."
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "1432",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Mon, 13 Apr 2020 05:02:45 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "server",
+							"key": "server",
+							"value": "Apache",
+							"description": "A name for the server"
+						},
+						{
+							"name": "status",
+							"key": "status",
+							"value": "200",
+							"description": "Custom header"
+						},
+						{
+							"name": "vary",
+							"key": "vary",
+							"value": "Authorization,Accept-Encoding,User-Agent",
+							"description": "Tells downstream proxies how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one from the origin server."
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "PHP/7.2.27",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"doctors\":{\"id\":556,\"ask_id\":\"ASK1-1\",\"ar_askid\":\"ASK1-1\",\"first_name\":\"Dr.Mohammed Al Rowaily\",\"ar_first_name\":\"\\u062f.\\u0645\\u062d\\u0645\\u062f \\u0627\\u0644\\u0631\\u0648\\u064a\\u0644\\u064a\",\"last_name\":null,\"email\":\"1032475608\",\"post_mail\":null,\"mobile\":\"505490787\",\"age\":\"50\",\"password\":\"$2y$10$3ZkNBPkZGPTuKHRWQRxqFuECvt4jPfduqN.zvnHvSK8esT7ttXrMy\",\"gender\":\"Male\",\"date_of_birth\":null,\"profile_pic\":\"doctor_profile\\/Kbug9Vn6jVUxhT82klVqn4ZQ4xiTchFKEcrSJKd4.jpeg\",\"device_id\":\"\",\"language\":null,\"insurance_company_name\":null,\"insurance_policy_no\":null,\"description\":\"Consultant Family Medicine. More then 20 years experience in management of chronic disease. Diabetes and hyper tension etc.\",\"ar_description\":\"\\u0625\\u0633\\u062a\\u0634\\u0627\\u0631\\u064a \\u062e\\u0628\\u0631\\u0647 \\u0623\\u0643\\u062b\\u0631 \\u0645\\u0646 \\u0639\\u0634\\u0631\\u064a\\u0646 \\u0633\\u0646\\u0629 \\u0641\\u064a \\u0645\\u062c\\u0627\\u0644 \\u0627\\u0644\\u0623\\u0645\\u0631\\u0627\\u0636 \\u0627\\u0644\\u0645\\u0632\\u0645\\u0646\\u0629 \\u0645\\u062b\\u0644 : \\u0627\\u0644\\u0633\\u0643\\u0631\\u064a \\u0648 \\u0627\\u0631\\u062a\\u0641\\u0627\\u0639 \\u0636\\u063a\\u0637 \\u0627\\u0644\\u062f\\u0645 \\u0648\\u0627\\u0644\\u0633\\u0645\\u0646\\u0629 \\u0648 \\u0625\\u0639\\u062a\\u062f\\u0627\\u0644 \\u0627\\u0644\\u0646\\u0645\\u0648 \\u0644\\u062f\\u0649 \\u0627\\u0644\\u0623\\u0637\\u0641\\u0627\\u0644\",\"emr_number\":null,\"start_time\":null,\"end_time\":null,\"status\":1,\"is_insurance\":\"0\",\"payment_type\":\"0\",\"paymentdetails_id\":null,\"insurance_id\":null,\"quickblox_id\":null,\"sinch_ticket\":null,\"national_id\":\"1032475608\",\"wallet_money\":\"476.25\",\"fees\":\"315\",\"ar_fees\":null,\"discount\":\"70\",\"commision\":\"15\",\"consultant\":\"1\",\"doctor_code\":\"00-R-M-2589\",\"ar_doctorcode\":\"\\u0660\\u0660-R-M-\\u0662\\u0665\\u0668\\u0669\",\"specialist\":null,\"countrycode\":\"form-control  form-control-sm\",\"session_id\":\"rkN7htqbnFm4VC1UEdGrGOK4qNjkqNQQNKwT9auK\",\"created_at\":null,\"updated_at\":\"2020-03-26 04:17:38\",\"email_address\":\"\",\"clinic\":[{\"id\":533,\"user_id\":\"556\",\"clinic_id\":\"1\",\"created_at\":null,\"updated_at\":null,\"clinic\":{\"id\":1,\"name\":\"Ask\",\"ar_name\":\"\\u064a\\u0637\\u0644\\u0628\",\"wallet_money\":\"4119.5844280000065\",\"commission\":null,\"status\":\"1\",\"created_at\":\"2020-03-09 02:14:42\",\"updated_at\":null}}],\"speciality\":[{\"id\":271,\"user_id\":\"556\",\"speciality_id\":\"1\",\"created_at\":null,\"updated_at\":null,\"speciality\":{\"id\":1,\"name\":\"Family Medicine\",\"ar_name\":\"\\u0637\\u0628 \\u0627\\u0644\\u0623\\u0633\\u0631\\u0629\",\"image\":\"speciality\\/S2SmEOHcYygrcFP9tnollywKoj8hrGQ4XaBpDrqK.jpeg\",\"status\":1,\"created_at\":null,\"updated_at\":\"2020-03-10 06:10:00\"}}],\"education\":[{\"id\":195,\"user_id\":\"556\",\"institute_name\":\"King Saud University\",\"ar_institute_name\":\"\\u062c\\u0627\\u0645\\u0639\\u0629 \\u0627\\u0644\\u0645\\u0644\\u0643 \\u0633\\u0639\\u0648\\u062f\",\"course\":\"MD\",\"ar_course\":\"\\u0628\\u0643\\u0627\\u0644\\u0648\\u0631\\u064a\\u0633\",\"year\":\"1992\",\"created_at\":null,\"updated_at\":null},{\"id\":196,\"user_id\":\"556\",\"institute_name\":\"King Khaled University Hospital\",\"ar_institute_name\":\"\\u0645\\u0633\\u062a\\u0634\\u0641\\u0649 \\u0627\\u0644\\u0645\\u0644\\u0643 \\u062e\\u0627\\u0644\\u062f \\u0627\\u0644\\u062c\\u0627\\u0645\\u0639\\u064a\",\"course\":\"Diploma In primary Health Care\",\"ar_course\":\"\\u062f\\u0628\\u0644\\u0648\\u0645 \\u0639\\u0627\\u0644\\u064a \\u0641\\u064a \\u0627\\u0644\\u0631\\u0639\\u0627\\u064a\\u0629 \\u0627\\u0644\\u0635\\u062d\\u064a\\u0629 \\u0627\\u0644\\u0623\\u0648\\u0644\\u064a\\u0629\",\"year\":\"1994\",\"created_at\":null,\"updated_at\":null},{\"id\":197,\"user_id\":\"556\",\"institute_name\":\"King Saud University\",\"ar_institute_name\":\"\\u062c\\u0627\\u0645\\u0639\\u0629 \\u0627\\u0644\\u0645\\u0644\\u0643 \\u0633\\u0639\\u0648\\u062f\",\"course\":\"Arab Board In Family Medicine\",\"ar_course\":\"\\u0627\\u0644\\u0628\\u0648\\u0631\\u062f \\u0627\\u0644\\u0639\\u0631\\u0628\\u064a \\u0641\\u064a \\u0637\\u0628 \\u0627\\u0644\\u0623\\u0633\\u0631\\u0629\",\"year\":\"1997\",\"created_at\":null,\"updated_at\":null}],\"experience\":[{\"id\":110,\"user_id\":\"556\",\"hospital_name\":\"King Saud University\",\"ar_hospital_name\":\"\\u062c\\u0627\\u0645\\u0639\\u0629 \\u0627\\u0644\\u0645\\u0644\\u0643 \\u0633\\u0639\\u0648\\u062f\",\"position\":\"Associate Professor\",\"ar_position\":\"\\u0623\\u0633\\u0627\\u0630 \\u0645\\u0634\\u0627\\u0631\\u0643\",\"year\":\"20\",\"created_at\":null,\"updated_at\":null}],\"days\":[]}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "DoctorDetails",
+					"id": "933741cc-1db2-e204-09b3-c50084585518",
+					"request": {
+						"url": "https://askurdr.com/api/user/doctordetail",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"enabled": true,
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{asktoken}}",
+								"enabled": true,
+								"description": ""
+							}
+						],
+						"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+						"data": [
+							{
+								"key": "doctor_id",
+								"value": "556",
+								"description": "",
+								"type": "text",
+								"enabled": true
+							}
+						],
+						"method": "POST",
+						"dataMode": "params"
+					}
+				}
+			]
+		},
+		{
+			"id": "3996bf17-ba42-1426-b289-5d2d2a787277",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/emrdetails",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "id",
+					"value": "644",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587998358381,
+			"name": "GetEmrDetails",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "414ca979-e631-b0fc-0368-05cef33c48f8",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/clinicwisedoctor",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "clinic_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "language",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752364705,
+			"name": "ClinicWiseDoctor",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "4384fa60-4f48-7f9f-510c-15625f8ff32d",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/deletetype",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "DeleteEmr",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586595467585,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "44803fe0-b5be-8a2e-6bbc-99af74d427bb",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/patientlist",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "doctor_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586603276977,
+			"name": "PatientList",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": [],
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "46ff3183-fe86-1307-ed98-72d3f4286ba8",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/patientbookinglist",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752707528,
+			"name": "PatientBookingList",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "4b8645d5-939d-00d3-3681-45bf2c4c77e0",
+			"headers": "",
+			"headerData": [],
+			"url": "https://askurdr.com/api/user/getcallmedical",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": null,
+			"dataMode": "params",
+			"name": "GetCallMedical",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604608154,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "50fbf8e6-a125-7049-ba2a-d7eba40cce0e",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getlastvisit",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "GetLastVisitOfPatient",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586603945786,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "550c5abe-4975-e08a-321e-88fe6a2c9c63",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/sendmessage",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "sender_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "receiver_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "message",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "SendMessage",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586603177660,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "578bd8b3-d825-d440-e518-11c1f8d17581",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getlabreportbyid",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "document_type_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "GetLabReportById",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604122869,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "622a4fc6-6b3b-cc9e-3ffa-a0131ceab453",
+			"headers": "Accept: application/json\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImVhNjZlMDg3MjUzYmE3YjIwNGU2Yjg0YTQ0NjdjOWNlNmU3NTVhNzFmZWUyYThkNTNjMWUxYmUxOTM5OTVlMTQ4NjNkMTJhNjRhOWIxOTI3In0.eyJhdWQiOiIxIiwianRpIjoiZWE2NmUwODcyNTNiYTdiMjA0ZTZiODRhNDQ2N2M5Y2U2ZTc1NWE3MWZlZTJhOGQ1M2MxZTFiZTE5Mzk5NWUxNDg2M2QxMmE2NGE5YjE5MjciLCJpYXQiOjE1OTk4MjkyNTcsIm5iZiI6MTU5OTgyOTI1NywiZXhwIjoxNjMxMzY1MjU3LCJzdWIiOiI2NzgiLCJzY29wZXMiOltdfQ.T27tRHQkdVldwVv8Ezn9kGm2owBtWBT4hROW2JdbW7y72WCwT94nFUPa9u1c4YeMPsOyJ-0sLuF9Thuczgprv8hyT9CKJ8bZo5gAgcyTReSkpBzraFalOxoNFyEMRu5TzVM7Ugvm7rOPXcObz_5x2S7O6oB1qMHhlRImdpxKZOZrAqUF5M_Mu23bXmEzxIRws5rzqKXdAkF73E8DyZee4VmxmOmz4gtwi14JqJUEX6omtcf3SYSM5t6VxK8GmoIYEjkyEi5BvevUWQAEY-8jPEgHhQRaN2gsUU_YGMpmzJNqbYojKWbLGvI1WvKcB2RMRMQMMhLvq9Rg04cKkuvueUhheyLhbJAL8adbjgdkdR1L44Yo-UAF8oecVNnWv7Dxdvu9cDYIJLx9Fjv2uY1jg9aJdiimrYdEN7rV-AmIOuv5t9it9tCLnEZNiftton23ksqQuOf5EqSu27z4F3bnNh4sMyVIvZW-sGHraNJneyK8sojF1o3qGUcrpaKZ8YLDR6ivXCCEMg0EmBIOKjGeWTvb7hiaXbQLA_fg22MygM4qRM8tMRpdNvlOebq0QNe2JQMzEH_L_8vED1gk3LFhUe_Ufv_40xoCgBQ5kIr679gUFlVbUCwq8zI0TlxOU_LCzRaNAuwBKbxWgi2e9FI0EVQ-qiVT86ix5-67c926B_Y\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImVhNjZlMDg3MjUzYmE3YjIwNGU2Yjg0YTQ0NjdjOWNlNmU3NTVhNzFmZWUyYThkNTNjMWUxYmUxOTM5OTVlMTQ4NjNkMTJhNjRhOWIxOTI3In0.eyJhdWQiOiIxIiwianRpIjoiZWE2NmUwODcyNTNiYTdiMjA0ZTZiODRhNDQ2N2M5Y2U2ZTc1NWE3MWZlZTJhOGQ1M2MxZTFiZTE5Mzk5NWUxNDg2M2QxMmE2NGE5YjE5MjciLCJpYXQiOjE1OTk4MjkyNTcsIm5iZiI6MTU5OTgyOTI1NywiZXhwIjoxNjMxMzY1MjU3LCJzdWIiOiI2NzgiLCJzY29wZXMiOltdfQ.T27tRHQkdVldwVv8Ezn9kGm2owBtWBT4hROW2JdbW7y72WCwT94nFUPa9u1c4YeMPsOyJ-0sLuF9Thuczgprv8hyT9CKJ8bZo5gAgcyTReSkpBzraFalOxoNFyEMRu5TzVM7Ugvm7rOPXcObz_5x2S7O6oB1qMHhlRImdpxKZOZrAqUF5M_Mu23bXmEzxIRws5rzqKXdAkF73E8DyZee4VmxmOmz4gtwi14JqJUEX6omtcf3SYSM5t6VxK8GmoIYEjkyEi5BvevUWQAEY-8jPEgHhQRaN2gsUU_YGMpmzJNqbYojKWbLGvI1WvKcB2RMRMQMMhLvq9Rg04cKkuvueUhheyLhbJAL8adbjgdkdR1L44Yo-UAF8oecVNnWv7Dxdvu9cDYIJLx9Fjv2uY1jg9aJdiimrYdEN7rV-AmIOuv5t9it9tCLnEZNiftton23ksqQuOf5EqSu27z4F3bnNh4sMyVIvZW-sGHraNJneyK8sojF1o3qGUcrpaKZ8YLDR6ivXCCEMg0EmBIOKjGeWTvb7hiaXbQLA_fg22MygM4qRM8tMRpdNvlOebq0QNe2JQMzEH_L_8vED1gk3LFhUe_Ufv_40xoCgBQ5kIr679gUFlVbUCwq8zI0TlxOU_LCzRaNAuwBKbxWgi2e9FI0EVQ-qiVT86ix5-67c926B_Y",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getdocumenttypelist",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "mobile",
+					"value": "557607534",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "role_id",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "/getdocumenttypelist",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1599886265744,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "645f3600-a4cc-ed91-3d1f-21b53702f6c9",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/addchatmsg",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "userid",
+					"value": "664",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "556",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_name",
+					"value": "asdasads",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_pic",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				},
+				{
+					"key": "last_message",
+					"value": " vcxvxcvxvxxcvxcvcvxvx",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587013406350,
+			"name": "AddChatMessages",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "695b16b4-43ae-dde5-e390-905329e82c03",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/patientlist",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "doctor_id",
+					"value": "678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "patientlist",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1587998789164,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "6a319f69-3a51-11aa-a8eb-9a7e155f94a8",
+			"headers": "Accept: application/json\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImI0MDU4ZjY4MTNlMTU4MmM3OTRkN2ZlMGE4ZTNmNTI5ZTQ3YmIxNmZiNDJhNWRlMTZmMGU5ZWI3NGYxOGZmNWE4ZWY3ZmY2MWU2MjcxZDZkIn0.eyJhdWQiOiIxIiwianRpIjoiYjQwNThmNjgxM2UxNTgyYzc5NGQ3ZmUwYThlM2Y1MjllNDdiYjE2ZmI0MmE1ZGUxNmYwZTllYjc0ZjE4ZmY1YThlZjdmZjYxZTYyNzFkNmQiLCJpYXQiOjE1OTkwMjgxODAsIm5iZiI6MTU5OTAyODE4MCwiZXhwIjoxNjMwNTY0MTgwLCJzdWIiOiI2NDQiLCJzY29wZXMiOltdfQ.PyvNT8wkqUmwp1QFHFldY9O8Ev152jy_ki2B6ctSYFQ1pCLe9lR7TGKSVqDBZsAzag_iAOoCCla15gH7iQ_lNCIEgb7SUNLVFzjxFCB9GUlBvztIs00QTDUQHqnhyIukSqqwcpDiSTLtHv1UaK1-1zL_nWqBZIm2Ci4nqKHlsPhz_bTLFh1B3wLgH1BSN3YuALld47V9KWu0oQ2LXUvUbDuER1yNebHGTnyrrk0bOCDUhDeuJguzF6EMM1b0U0pISW87udcgy7cA6JeEc3p9zTX_FFhjVAhGNmGCJKjWnA2WTWi7nLhpib0al4KKSetnLUDKCuwZtrOdRrkPS3rg0L6bG7nu8Oreks6PzHvEN-A8mNCZIhIFtn1K4W-pVwyS1MG5gdF73ZyjOsHibhJkU01DRWNcoferdUd184caatR9HqK999WYEa4Sg6nZ2bACzPtUMQXAvAVOZoamZg93_mcIZ68dQFrX8h4CBSb7HiQhJx4TSvocEXw46tTLC7WZ-HqYl_80IVuAkxBe0AWoicM6NoP-xKgT4mSIIPM4adVMpDb1xdUAW4l6p3T8eNg1OX5FJT4H866EOf7nx-RzUOVIIXJuviPxC_atMgLvX_0oQQqX2ieQWgSvRu_7Uvr_eb_ubGlPNDaRoob9QicMBQUySkM3kRYyhjPSMUazw2Y\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImI0MDU4ZjY4MTNlMTU4MmM3OTRkN2ZlMGE4ZTNmNTI5ZTQ3YmIxNmZiNDJhNWRlMTZmMGU5ZWI3NGYxOGZmNWE4ZWY3ZmY2MWU2MjcxZDZkIn0.eyJhdWQiOiIxIiwianRpIjoiYjQwNThmNjgxM2UxNTgyYzc5NGQ3ZmUwYThlM2Y1MjllNDdiYjE2ZmI0MmE1ZGUxNmYwZTllYjc0ZjE4ZmY1YThlZjdmZjYxZTYyNzFkNmQiLCJpYXQiOjE1OTkwMjgxODAsIm5iZiI6MTU5OTAyODE4MCwiZXhwIjoxNjMwNTY0MTgwLCJzdWIiOiI2NDQiLCJzY29wZXMiOltdfQ.PyvNT8wkqUmwp1QFHFldY9O8Ev152jy_ki2B6ctSYFQ1pCLe9lR7TGKSVqDBZsAzag_iAOoCCla15gH7iQ_lNCIEgb7SUNLVFzjxFCB9GUlBvztIs00QTDUQHqnhyIukSqqwcpDiSTLtHv1UaK1-1zL_nWqBZIm2Ci4nqKHlsPhz_bTLFh1B3wLgH1BSN3YuALld47V9KWu0oQ2LXUvUbDuER1yNebHGTnyrrk0bOCDUhDeuJguzF6EMM1b0U0pISW87udcgy7cA6JeEc3p9zTX_FFhjVAhGNmGCJKjWnA2WTWi7nLhpib0al4KKSetnLUDKCuwZtrOdRrkPS3rg0L6bG7nu8Oreks6PzHvEN-A8mNCZIhIFtn1K4W-pVwyS1MG5gdF73ZyjOsHibhJkU01DRWNcoferdUd184caatR9HqK999WYEa4Sg6nZ2bACzPtUMQXAvAVOZoamZg93_mcIZ68dQFrX8h4CBSb7HiQhJx4TSvocEXw46tTLC7WZ-HqYl_80IVuAkxBe0AWoicM6NoP-xKgT4mSIIPM4adVMpDb1xdUAW4l6p3T8eNg1OX5FJT4H866EOf7nx-RzUOVIIXJuviPxC_atMgLvX_0oQQqX2ieQWgSvRu_7Uvr_eb_ubGlPNDaRoob9QicMBQUySkM3kRYyhjPSMUazw2Y",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/specialitywisedrlistwithfilter",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "gender",
+					"value": "all",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "speciality_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "consultant",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "language",
+					"value": "en",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1599287523356,
+			"name": "SpecialityWiseDoctorFilter",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "6c5a0717-b2f6-7a8f-8ab9-434e7a125451",
+			"headers": "",
+			"headerData": [],
+			"url": "https://askurdr.com/api/user/updatelabreport",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "investigation_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "result[]",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				},
+				{
+					"key": "uploadedby",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "UpdateLabReports",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586603550740,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "71390f21-12a9-c0e5-eb4d-e7a900e0cd99",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/medicines",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": null,
+			"dataMode": "params",
+			"name": "GetMedicines",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586602916025,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "71e3979a-07e8-df70-6bed-720c240706a1",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/create_pdf_bill",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "callhistoryid",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "CreatePdfBill",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586605518749,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "74990c06-ac6a-188f-3a72-e9671643bee4",
+			"headers": "",
+			"headerData": [],
+			"url": "https://askurdr.com/api/login",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "nationalid",
+					"value": "4567456711",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "8460178904",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "device_id",
+					"value": "aaa",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587983175289,
+			"name": "Login",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "75c9c0eb-d21d-b958-4faa-11654d53bae2",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/addEmr",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "557",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "556",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type_visit",
+					"value": "aa",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "emr_no",
+					"value": "11111",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "physican_diagonis_id",
+					"value": "aa",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "physican_note",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "visit_status",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctorbookingform_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "followup_date",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "call_type",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "prescription_detail[]",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "referral_detail[]",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "investigation_detail[]",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752384261,
+			"name": "AddEmr",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "76af074d-0746-ce0b-b311-1a624cc106dc",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/physican/simple",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1589878318347,
+			"name": "PhysicanDiagnosis",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "76efc6d0-b2f7-1cad-6b84-9c88547ce3ec",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/sendemail",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_booking_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "time",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "SendEmail",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586603119940,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "78657cab-435b-8a3c-ab66-d53dcc2df752",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/specialitywisedoctor",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "speciality_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "language",
+					"value": "en",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752367103,
+			"name": "SpecialityWiseDoctor",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "7dbeb768-4ef9-640e-91e3-59a4ada06a11",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/doctorbooking",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "date",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "time",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752699295,
+			"name": "DoctorBooking",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "80225016-bc02-ce89-52e3-ee6b2a57839f",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/logout",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "Logout",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586606042898,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "81c6e05c-012a-0c9f-51d2-a76de01ff00d",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/addbalance",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "amount",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "AddBalance",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604942877,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "832c9dfb-f785-dba8-535c-d01bc512026a",
+			"headers": "Accept: application/json\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImVhNjZlMDg3MjUzYmE3YjIwNGU2Yjg0YTQ0NjdjOWNlNmU3NTVhNzFmZWUyYThkNTNjMWUxYmUxOTM5OTVlMTQ4NjNkMTJhNjRhOWIxOTI3In0.eyJhdWQiOiIxIiwianRpIjoiZWE2NmUwODcyNTNiYTdiMjA0ZTZiODRhNDQ2N2M5Y2U2ZTc1NWE3MWZlZTJhOGQ1M2MxZTFiZTE5Mzk5NWUxNDg2M2QxMmE2NGE5YjE5MjciLCJpYXQiOjE1OTk4MjkyNTcsIm5iZiI6MTU5OTgyOTI1NywiZXhwIjoxNjMxMzY1MjU3LCJzdWIiOiI2NzgiLCJzY29wZXMiOltdfQ.T27tRHQkdVldwVv8Ezn9kGm2owBtWBT4hROW2JdbW7y72WCwT94nFUPa9u1c4YeMPsOyJ-0sLuF9Thuczgprv8hyT9CKJ8bZo5gAgcyTReSkpBzraFalOxoNFyEMRu5TzVM7Ugvm7rOPXcObz_5x2S7O6oB1qMHhlRImdpxKZOZrAqUF5M_Mu23bXmEzxIRws5rzqKXdAkF73E8DyZee4VmxmOmz4gtwi14JqJUEX6omtcf3SYSM5t6VxK8GmoIYEjkyEi5BvevUWQAEY-8jPEgHhQRaN2gsUU_YGMpmzJNqbYojKWbLGvI1WvKcB2RMRMQMMhLvq9Rg04cKkuvueUhheyLhbJAL8adbjgdkdR1L44Yo-UAF8oecVNnWv7Dxdvu9cDYIJLx9Fjv2uY1jg9aJdiimrYdEN7rV-AmIOuv5t9it9tCLnEZNiftton23ksqQuOf5EqSu27z4F3bnNh4sMyVIvZW-sGHraNJneyK8sojF1o3qGUcrpaKZ8YLDR6ivXCCEMg0EmBIOKjGeWTvb7hiaXbQLA_fg22MygM4qRM8tMRpdNvlOebq0QNe2JQMzEH_L_8vED1gk3LFhUe_Ufv_40xoCgBQ5kIr679gUFlVbUCwq8zI0TlxOU_LCzRaNAuwBKbxWgi2e9FI0EVQ-qiVT86ix5-67c926B_Y\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImVhNjZlMDg3MjUzYmE3YjIwNGU2Yjg0YTQ0NjdjOWNlNmU3NTVhNzFmZWUyYThkNTNjMWUxYmUxOTM5OTVlMTQ4NjNkMTJhNjRhOWIxOTI3In0.eyJhdWQiOiIxIiwianRpIjoiZWE2NmUwODcyNTNiYTdiMjA0ZTZiODRhNDQ2N2M5Y2U2ZTc1NWE3MWZlZTJhOGQ1M2MxZTFiZTE5Mzk5NWUxNDg2M2QxMmE2NGE5YjE5MjciLCJpYXQiOjE1OTk4MjkyNTcsIm5iZiI6MTU5OTgyOTI1NywiZXhwIjoxNjMxMzY1MjU3LCJzdWIiOiI2NzgiLCJzY29wZXMiOltdfQ.T27tRHQkdVldwVv8Ezn9kGm2owBtWBT4hROW2JdbW7y72WCwT94nFUPa9u1c4YeMPsOyJ-0sLuF9Thuczgprv8hyT9CKJ8bZo5gAgcyTReSkpBzraFalOxoNFyEMRu5TzVM7Ugvm7rOPXcObz_5x2S7O6oB1qMHhlRImdpxKZOZrAqUF5M_Mu23bXmEzxIRws5rzqKXdAkF73E8DyZee4VmxmOmz4gtwi14JqJUEX6omtcf3SYSM5t6VxK8GmoIYEjkyEi5BvevUWQAEY-8jPEgHhQRaN2gsUU_YGMpmzJNqbYojKWbLGvI1WvKcB2RMRMQMMhLvq9Rg04cKkuvueUhheyLhbJAL8adbjgdkdR1L44Yo-UAF8oecVNnWv7Dxdvu9cDYIJLx9Fjv2uY1jg9aJdiimrYdEN7rV-AmIOuv5t9it9tCLnEZNiftton23ksqQuOf5EqSu27z4F3bnNh4sMyVIvZW-sGHraNJneyK8sojF1o3qGUcrpaKZ8YLDR6ivXCCEMg0EmBIOKjGeWTvb7hiaXbQLA_fg22MygM4qRM8tMRpdNvlOebq0QNe2JQMzEH_L_8vED1gk3LFhUe_Ufv_40xoCgBQ5kIr679gUFlVbUCwq8zI0TlxOU_LCzRaNAuwBKbxWgi2e9FI0EVQ-qiVT86ix5-67c926B_Y",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/subdocumenttypelist",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "documenttypeid",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "subdocumenttypelist",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1599886243771,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "8be7bb86-3c7b-2df9-b2b2-8d096b721f08",
+			"headers": "Accept: application/json\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImI0MDU4ZjY4MTNlMTU4MmM3OTRkN2ZlMGE4ZTNmNTI5ZTQ3YmIxNmZiNDJhNWRlMTZmMGU5ZWI3NGYxOGZmNWE4ZWY3ZmY2MWU2MjcxZDZkIn0.eyJhdWQiOiIxIiwianRpIjoiYjQwNThmNjgxM2UxNTgyYzc5NGQ3ZmUwYThlM2Y1MjllNDdiYjE2ZmI0MmE1ZGUxNmYwZTllYjc0ZjE4ZmY1YThlZjdmZjYxZTYyNzFkNmQiLCJpYXQiOjE1OTkwMjgxODAsIm5iZiI6MTU5OTAyODE4MCwiZXhwIjoxNjMwNTY0MTgwLCJzdWIiOiI2NDQiLCJzY29wZXMiOltdfQ.PyvNT8wkqUmwp1QFHFldY9O8Ev152jy_ki2B6ctSYFQ1pCLe9lR7TGKSVqDBZsAzag_iAOoCCla15gH7iQ_lNCIEgb7SUNLVFzjxFCB9GUlBvztIs00QTDUQHqnhyIukSqqwcpDiSTLtHv1UaK1-1zL_nWqBZIm2Ci4nqKHlsPhz_bTLFh1B3wLgH1BSN3YuALld47V9KWu0oQ2LXUvUbDuER1yNebHGTnyrrk0bOCDUhDeuJguzF6EMM1b0U0pISW87udcgy7cA6JeEc3p9zTX_FFhjVAhGNmGCJKjWnA2WTWi7nLhpib0al4KKSetnLUDKCuwZtrOdRrkPS3rg0L6bG7nu8Oreks6PzHvEN-A8mNCZIhIFtn1K4W-pVwyS1MG5gdF73ZyjOsHibhJkU01DRWNcoferdUd184caatR9HqK999WYEa4Sg6nZ2bACzPtUMQXAvAVOZoamZg93_mcIZ68dQFrX8h4CBSb7HiQhJx4TSvocEXw46tTLC7WZ-HqYl_80IVuAkxBe0AWoicM6NoP-xKgT4mSIIPM4adVMpDb1xdUAW4l6p3T8eNg1OX5FJT4H866EOf7nx-RzUOVIIXJuviPxC_atMgLvX_0oQQqX2ieQWgSvRu_7Uvr_eb_ubGlPNDaRoob9QicMBQUySkM3kRYyhjPSMUazw2Y\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImI0MDU4ZjY4MTNlMTU4MmM3OTRkN2ZlMGE4ZTNmNTI5ZTQ3YmIxNmZiNDJhNWRlMTZmMGU5ZWI3NGYxOGZmNWE4ZWY3ZmY2MWU2MjcxZDZkIn0.eyJhdWQiOiIxIiwianRpIjoiYjQwNThmNjgxM2UxNTgyYzc5NGQ3ZmUwYThlM2Y1MjllNDdiYjE2ZmI0MmE1ZGUxNmYwZTllYjc0ZjE4ZmY1YThlZjdmZjYxZTYyNzFkNmQiLCJpYXQiOjE1OTkwMjgxODAsIm5iZiI6MTU5OTAyODE4MCwiZXhwIjoxNjMwNTY0MTgwLCJzdWIiOiI2NDQiLCJzY29wZXMiOltdfQ.PyvNT8wkqUmwp1QFHFldY9O8Ev152jy_ki2B6ctSYFQ1pCLe9lR7TGKSVqDBZsAzag_iAOoCCla15gH7iQ_lNCIEgb7SUNLVFzjxFCB9GUlBvztIs00QTDUQHqnhyIukSqqwcpDiSTLtHv1UaK1-1zL_nWqBZIm2Ci4nqKHlsPhz_bTLFh1B3wLgH1BSN3YuALld47V9KWu0oQ2LXUvUbDuER1yNebHGTnyrrk0bOCDUhDeuJguzF6EMM1b0U0pISW87udcgy7cA6JeEc3p9zTX_FFhjVAhGNmGCJKjWnA2WTWi7nLhpib0al4KKSetnLUDKCuwZtrOdRrkPS3rg0L6bG7nu8Oreks6PzHvEN-A8mNCZIhIFtn1K4W-pVwyS1MG5gdF73ZyjOsHibhJkU01DRWNcoferdUd184caatR9HqK999WYEa4Sg6nZ2bACzPtUMQXAvAVOZoamZg93_mcIZ68dQFrX8h4CBSb7HiQhJx4TSvocEXw46tTLC7WZ-HqYl_80IVuAkxBe0AWoicM6NoP-xKgT4mSIIPM4adVMpDb1xdUAW4l6p3T8eNg1OX5FJT4H866EOf7nx-RzUOVIIXJuviPxC_atMgLvX_0oQQqX2ieQWgSvRu_7Uvr_eb_ubGlPNDaRoob9QicMBQUySkM3kRYyhjPSMUazw2Y",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/specialitywisedoctor",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "speciality_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "consultant",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "language",
+					"value": "en",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1599287526056,
+			"name": "SpecialityWiseDrList",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "8fa1ae4f-a054-1577-b9e8-417c1dc6a988",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/checknode",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "sender_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "receiver_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "node",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "CheckNode",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604247854,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "943a552c-73b7-3157-99cd-deda672b33f3",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/paymentcut",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "call_type",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1589178373478,
+			"name": "PaymentCut",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "95ab8036-1543-c229-f6d2-aa24c20a99f4",
+			"headers": "Accept: application/json\nAuthorization: Bearer\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getcalltype",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "GetCall Type For Chat",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604851960,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "9859887c-2c93-7db0-edf1-b09715682f05",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getdocumentvideocall",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "receiver_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "GetDocumentVideocall",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604742821,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "a4e5df80-06b1-0d7d-6258-0960166b8b26",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/sendcallrequest",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "type",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "followup_date",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "followup_call_type",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752739985,
+			"name": "SendCallRequest",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "ad121d20-2750-e31d-e88c-4cdeb33e9f5f",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getbill",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "language",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "GetBill",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604895651,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "afddfdcc-339b-f451-9dcc-2643829347ec",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getpatientreferral",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "GetPatientWiseRefreal",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604069208,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "b9e22238-7155-e548-5881-bd256932b005",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/sendcallnotificationrequest",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "receiver_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "SendCallNotificationRequest",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604650959,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "c39fc2c0-bdd9-324b-d932-af01d2465e66",
+			"headers": "",
+			"headerData": [],
+			"url": "https://askurdr.com/api/terms_condition",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": null,
+			"dataMode": "params",
+			"name": "Terms And Conditions",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586606106108,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "c4e2da3a-cf47-8b36-db4c-9687e198f51b",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/changepassword",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "language",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "old_password",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752359847,
+			"name": "ChangePassword",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "cad5e9ce-2959-37c1-4d1c-1fec9e4cac88",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getchatmsg",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "GetChatMessages",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604479096,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "cbc6cb15-f1a0-7738-5dd1-b111a3469972",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/doctorbookingform",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "description",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "reason",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "report",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "from_where",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "report_file",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752703385,
+			"name": "DoctorBookingForm",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "cce0e108-befa-c4d2-b71d-e0ec5f0a8bae",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/previsit",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "644",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "booking_id",
+					"value": "20",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1589878321328,
+			"name": "Previsit Booking Form",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "d4d75a48-9db8-136c-a058-6db83aa797c3",
+			"headers": "Authorization: Bearer {{asktoken}}\nAccept: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{base_ask_url }}user/checkbalancestatus",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "userid",
+					"value": "644",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "doctor_id",
+					"value": "556",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587704845160,
+			"name": "checkbalancestatus",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "dfdd7880-7389-80fe-44cb-23859c366faf",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getlabreport",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "id",
+					"value": "683",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587704803617,
+			"name": "GetLabReport",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "e029b43e-9fe1-9012-fb54-f3ac8ca3b5a9",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/uploaddocumentvideocall",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "receiver_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "document",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "UploadDocumentVideoCall",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586604702671,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "e119b30a-cf84-6561-cb2d-0c3e4f4068d4",
+			"headers": "",
+			"headerData": [],
+			"url": "https://askurdr.com/api/user/bookinglist",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": null,
+			"dataMode": "params",
+			"name": "BookingList",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586602455464,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "e702251e-c208-281f-b389-b9f2a2397104",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/specialitylist",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752388343,
+			"name": "SpecialityList",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "e7745f97-ae58-6cf8-f1f7-5bc1f0297f46",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/deletenotification",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "notification_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "DeleteNotification",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586602757014,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "e82114c6-515a-93af-821f-aefb3dd6a3d8",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/patientdetail",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752373990,
+			"name": "PatientDetails",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "e9e067de-4d36-312b-b258-9937305f68a9",
+			"headers": "Accept: application/json\nAuthorization: Bearer \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/prescriptionlist",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": null,
+			"dataMode": "params",
+			"name": "PrescriptionList",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586603332786,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "efef1006-d32d-cde0-b4d1-ec402c61eed5",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/documenttypelist",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752362243,
+			"name": "DocumentTypeList",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "f3d1d59d-937f-8653-e361-15b51b3b07c7",
+			"headers": "",
+			"headerData": [],
+			"url": "https://askurdr.com/api/user/getwaitinglist/{doctor_id}",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": null,
+			"dataMode": "params",
+			"name": "WaitingList",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586603389488,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "f5632ab1-2a38-2d96-24f6-77d090eed110",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getAvailStatus",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "DoctorAvailabileStatus",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586603860508,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "f790e59c-c565-aeeb-d308-e3a5572eec81",
+			"headers": "Accept: \nAuthorization: \n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/checktimeslot",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"data": [
+				{
+					"key": "doctor_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "date",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "time",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "CheckTimeSlot",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1586603597919,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collection_id": "01dc181d-841b-0504-ace4-6cbf0f64e138"
+		},
+		{
+			"id": "f8fe1264-c3c5-2936-07ce-c66d203fd8a3",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/emrupdate",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "patient_id",
+					"value": "557",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "doctor_id",
+					"value": "556",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "physican_diagonis_id",
+					"value": "aa",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "physican_note",
+					"value": "",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "visit_status",
+					"value": "",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "prescription_detail[]",
+					"value": "",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "referral_detail[]",
+					"value": "",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "investigation_detail[]",
+					"value": "",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "emr_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752378814,
+			"name": "EditEmr",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "f90e8a70-14ca-8bac-66f7-bbc022f3f029",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/cliniclist",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1586752369463,
+			"name": "ClinicList",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		},
+		{
+			"id": "fefe5083-97bc-3bb6-4354-e2782e65a77f",
+			"headers": "Accept: application/json\nAuthorization: Bearer {{asktoken}}\n",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{asktoken}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://askurdr.com/api/user/getnotification",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1587013388140,
+			"name": "GetNotification",
+			"description": "",
+			"collectionId": "01dc181d-841b-0504-ace4-6cbf0f64e138",
+			"responses": []
+		}
+	]
+}
