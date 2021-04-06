@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "eb17758eba731a0b7ef1ee0397345f02",
+    "content-hash": "0623f672259cf2fc09d91683f21b3b20",
     "packages": [
         {
             "name": "barryvdh/laravel-dompdf",
@@ -3621,6 +3621,51 @@
                 "source": "https://github.com/bobthecow/psysh/tree/v0.9.12"
             },
             "time": "2019-12-06T14:19:43+00:00"
+        },
+        {
+            "name": "rajtechnologies/laravel-tools",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/RajTechnologiesPvtLtd/laravel-tools.git",
+                "reference": "9a39c0f6e38e71d55a634656f2d47b82a4a9ea33"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/RajTechnologiesPvtLtd/laravel-tools/zipball/9a39c0f6e38e71d55a634656f2d47b82a4a9ea33",
+                "reference": "9a39c0f6e38e71d55a634656f2d47b82a4a9ea33",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "RajTechnologies\\Tools\\ToolServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "RajTechnologies\\Tools\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Bhargav Raviya",
+                    "email": "rajtechnologies@gmail.com"
+                }
+            ],
+            "description": "All Type of Base Tools to Helping Development",
+            "support": {
+                "issues": "https://github.com/RajTechnologiesPvtLtd/laravel-tools/issues",
+                "source": "https://github.com/RajTechnologiesPvtLtd/laravel-tools/tree/master"
+            },
+            "time": "2021-04-03T14:38:59+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -8339,6 +8384,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
+        "rajtechnologies/laravel-tools": 20,
         "zizaco/entrust": 20
     },
     "prefer-stable": true,
