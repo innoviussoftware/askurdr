@@ -548,6 +548,9 @@ class DoctorController extends Controller
         $create_room_id->booking_id=$booking_id;
         $create_room_id->save();
 
+        
+        
+        
         // End Room Id
         $data = array(
             'patient_id' => $patient_id,
@@ -557,7 +560,10 @@ class DoctorController extends Controller
             'call_type' => $type,
             'booking_id'=>$booking_id,
             'followup_date'=>request('followup_date'),
-            'followup_call_type'=>request('followup_call_type')
+            'followup_call_type'=>request('followup_call_type'),
+            //new params
+            'room_id' => $create_room_id->room_id,
+            'patient_doc_id'=>request('patient_doc_id'),
         );
         
 
@@ -569,7 +575,7 @@ class DoctorController extends Controller
                 'body' => 'Incoming audio call from '.$patient->first_name.' '.$patient->last_name.'- EMR No:'.$patient->emr_number,
                 'title' => 'Incoming Audio call',
                 'icon' => 'myicon',
-                'sound' => 'mySound'
+                'sound' => 'mySound',
             );
             PushNotification::SendPushNotification($pmsg, $data, [$doctor_device_id]);
         }

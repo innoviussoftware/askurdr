@@ -7,12 +7,11 @@ use App\Http\Controllers\Controller;
 use Twilio\Jwt\AccessToken;
 use Twilio\Jwt\Grants\ChatGrant;
 use Twilio\Jwt\Grants\VideoGrant;
-use Illuminate\Support\Facades\Validator;
-
+use Auth;
+use Validator;
 
 class TwilioController extends Controller
 {
-    
     public function generate_token(Request $request)
     {
         $validator = Validator::make($request->all(), [
@@ -24,9 +23,17 @@ class TwilioController extends Controller
               $errorMessage = implode(',', $validator->errors()->all());
               return response()->json(['errors' => $errorMessage], 422);
           }
-        $accountSid = 'ACc854bb7e38224443be49cbb9e321856f';
-        $apiKeySid = 'SK718fb7ab87c330a9929d7b5295974c0e';
-        $apiKeySecret = 'L0QF7nOA6jTiVpJYoUvxUJhG82Xyitli';
+        // $accountSid = 'ACc854bb7e38224443be49cbb9e321856f';
+        // $apiKeySid = 'SK718fb7ab87c330a9929d7b5295974c0e';
+        // $apiKeySecret = 'L0QF7nOA6jTiVpJYoUvxUJhG82Xyitli';
+        // $accountSid = 'ACc854bb7e38224443be49cbb9e321856f';
+        // $apiKeySid = 'SKdada38d5f6cdd51065d94a8c6cfde94e';
+        // $apiKeySecret = '5dc2e0f7f40cd521b603287f3e495ee7';
+        $accountSid = 'AC16f28c6448ddce5eaf3528d573739a3d';
+        $apiKeySid = 'SK960a590cdc3861cf350d007124bd5d9d';
+        $apiKeySecret = 'vyrtnll8Ac2oTRbQfKoNxV7sV1CdFGCh';
+        //SK960a590cdc3861cf350d007124bd5d9d sid
+        //secret vyrtnll8Ac2oTRbQfKoNxV7sV1CdFGCh
         /*
         $accountSid = ('TWILIO_ACCOUNT_SID');
         $apiKeySid = ('TWILIO_API_KEY');
@@ -41,9 +48,9 @@ class TwilioController extends Controller
         $apiKeySid,
         $apiKeySecret,
         3600,
-        $identity,
-        $room_name
+        $identity
         );
+        // $room_name
 
         // Grant access to Video
         $grant = new VideoGrant();
@@ -58,7 +65,7 @@ class TwilioController extends Controller
         ];
         return response()->json($result);
         */
-        $response = ["identity"=>$identity,"token"=>$token->toJWT()];
+        $response = ["room_name"=>$room_name,"identity"=>$identity,"token"=>$token->toJWT()];
         return response()->json($response, 200);
         
     }
@@ -72,7 +79,7 @@ class TwilioController extends Controller
         // Required for Chat grant
         $serviceSid = 'IS7817abb9355f4082b88d7df67e2d1f2e';
         // choose a random username for the connecting user
-        $identity = "john_doe";
+        $identity = "jay_bhai";
 
         // Create access token, which we will serialize and send to the client
         $token = new AccessToken(
